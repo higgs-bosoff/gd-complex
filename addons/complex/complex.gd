@@ -1,4 +1,4 @@
-class_name Complex extends Object
+class_name Complex extends RefCounted
 
 var real: float
 var imag: float
